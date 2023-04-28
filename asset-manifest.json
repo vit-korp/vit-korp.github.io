@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-bookmarks/static/css/main.b748c92d.css",
+    "main.js": "/digital-bookmarks/static/js/main.14ac0c93.js",
+    "static/media/Revolver.obj": "/digital-bookmarks/static/media/Revolver.e3e316ed9eea6bc37c91.obj",
+    "static/media/SpaceMono-Regular.ttf": "/digital-bookmarks/static/media/SpaceMono-Regular.8a2aa304d0bd5e41d186.ttf",
+    "static/media/SpaceMono-Bold.ttf": "/digital-bookmarks/static/media/SpaceMono-Bold.056ac3ebe5f65cb5c4ac.ttf",
+    "static/media/SpaceMono-Regular.eot": "/digital-bookmarks/static/media/SpaceMono-Regular.256d667ad36cda5f9f18.eot",
+    "static/media/SpaceMono-Bold.eot": "/digital-bookmarks/static/media/SpaceMono-Bold.b29446ec2e30acbb6551.eot",
+    "static/media/SpaceMono-Regular.woff": "/digital-bookmarks/static/media/SpaceMono-Regular.c69fa1c6b4ce4e525985.woff",
+    "static/media/SpaceMono-Bold.woff": "/digital-bookmarks/static/media/SpaceMono-Bold.68cda5645bbef174be4b.woff",
+    "static/media/alert.png": "/digital-bookmarks/static/media/alert.5f0f3b06e1f0f4885964.png",
+    "static/media/logo.svg": "/digital-bookmarks/static/media/logo.02e0d5faca366c4c69d144008bbd6544.svg",
+    "index.html": "/digital-bookmarks/index.html",
+    "main.b748c92d.css.map": "/digital-bookmarks/static/css/main.b748c92d.css.map",
+    "main.14ac0c93.js.map": "/digital-bookmarks/static/js/main.14ac0c93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b748c92d.css",
+    "static/js/main.14ac0c93.js"
+  ]
+}
