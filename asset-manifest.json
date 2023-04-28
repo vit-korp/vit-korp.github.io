@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1135fd4d.css",
+    "main.js": "/static/js/main.4dd3728d.js",
+    "static/media/Revolver.obj": "/static/media/Revolver.e3e316ed9eea6bc37c91.obj",
+    "static/media/SpaceMono-Regular.ttf": "/static/media/SpaceMono-Regular.8a2aa304d0bd5e41d186.ttf",
+    "static/media/SpaceMono-Bold.ttf": "/static/media/SpaceMono-Bold.056ac3ebe5f65cb5c4ac.ttf",
+    "static/media/SpaceMono-Regular.eot": "/static/media/SpaceMono-Regular.256d667ad36cda5f9f18.eot",
+    "static/media/SpaceMono-Bold.eot": "/static/media/SpaceMono-Bold.b29446ec2e30acbb6551.eot",
+    "static/media/SpaceMono-Regular.woff": "/static/media/SpaceMono-Regular.c69fa1c6b4ce4e525985.woff",
+    "static/media/SpaceMono-Bold.woff": "/static/media/SpaceMono-Bold.68cda5645bbef174be4b.woff",
+    "static/media/alert.png": "/static/media/alert.5f0f3b06e1f0f4885964.png",
+    "static/media/book1.svg": "/static/media/book1.190ab6b80bbb49767b0e8b226dde0e0a.svg",
+    "static/media/what.svg": "/static/media/what.caf28ad8462a2aea04d92e6a1cc11c3c.svg",
+    "static/media/logo.svg": "/static/media/logo.02e0d5faca366c4c69d144008bbd6544.svg",
+    "index.html": "/index.html",
+    "main.1135fd4d.css.map": "/static/css/main.1135fd4d.css.map",
+    "main.4dd3728d.js.map": "/static/js/main.4dd3728d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1135fd4d.css",
+    "static/js/main.4dd3728d.js"
+  ]
+}
